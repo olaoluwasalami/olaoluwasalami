@@ -10,3 +10,27 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=yungdenzel.yungdenzel)
 <!-- ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) -->
 
+
+```javascript
+const Ola = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python",  "PHP"],
+    askMeAbout: ["web dev", "tech", "devops", "nigeria"],
+    technologies: {
+        frontEnd: {
+          js: ["ReactJS", "NextJS"]
+        },
+        backEnd: {
+            language: ["Node",  "Express", "Django"],
+        },
+       
+        devOps: ["AWS", "GCP", "CI/CD" "Docker🐳", "Terraform", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "Dynamodb" Postgres],
+        
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "",
+    
+};
+```
+
