@@ -25,11 +25,11 @@ const Ola = {
         },
        
         devOps: ["AWS", "GCP", "CI/CD" "Docker🐳", "Terraform", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "Dynamodb" Postgres],
+        databases: ["mongo", "MySql", "Dynamodb", "Postgres"],
         
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "",
+    currentFocus: "Working with NextJS, Graphql and Cloud Computing",
     
 };
 ```
