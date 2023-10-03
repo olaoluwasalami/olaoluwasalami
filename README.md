@@ -1,6 +1,6 @@
 <h2> I'm Olaoluwa Salami but you can call me Ola !! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Cloud/DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/justolaoluwa?label=Follow)](https://twitter.com/intent/follow?screen_name=justolaoluwa)
@@ -14,17 +14,10 @@
 ```javascript
 const Ola = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python",  "PHP"],
-    askMeAbout: ["web dev", "tech", "devops", "nigeria"],
-    technologies: {
-        frontEnd: {
-          js: ["ReactJS", "NextJS"]
-        },
-        backEnd: {
-            language: ["Node",  "Express", "Django"],
-        },
-       
-        devOps: ["AWS", "GCP", "CI/CD" "Docker🐳", "Terraform", "Route53", "Nginx"],
+    code: ["Javascript", "Python", "Go"],
+    askMeAbout: ["Cloud", "tech", "DevOps", ],
+    technologies: {       
+        devOps: ["AWS", "GCP", "Kubernetes", "CI/CD" "Docker🐳", "Terraform", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "Dynamodb", "Postgres"],
         
     },
